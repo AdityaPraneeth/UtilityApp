@@ -1,0 +1,4 @@
+Jul 13, 2020 7:03:36 PM com.Retailsols.com.MyLogger log
+INFO: user login: 
+Jul 13, 2020 8:10:48 PM com.Retailsols.com.MyLogger log
+INFO: user login: 

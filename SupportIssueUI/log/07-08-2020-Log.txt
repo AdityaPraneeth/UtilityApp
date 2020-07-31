@@ -1,0 +1,2 @@
+Jul 08, 2020 3:05:38 AM com.Retailsols.com.MyLogger log
+INFO: user login: jhbhdb

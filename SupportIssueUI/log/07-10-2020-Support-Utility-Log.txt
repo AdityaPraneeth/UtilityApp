@@ -1,0 +1,48 @@
+Jul 10, 2020 1:23:46 AM com.Retailsols.com.MyLogger log
+INFO: user login: 
+Jul 10, 2020 1:33:16 AM com.Retailsols.com.MyLogger log
+INFO: user login: 
+Jul 10, 2020 1:35:56 AM com.Retailsols.com.MyLogger log
+INFO: user login: 
+Jul 10, 2020 1:41:08 AM com.Retailsols.com.MyLogger log
+INFO: user login: 
+Jul 10, 2020 1:49:22 AM com.Retailsols.com.MyLogger log
+INFO: user login: 
+Jul 10, 2020 2:02:17 AM com.Retailsols.com.MyLogger log
+INFO: user login: 
+Jul 10, 2020 2:02:58 AM com.Retailsols.com.MyLogger log
+INFO: user login: 
+Jul 10, 2020 2:12:22 AM com.Retailsols.com.MyLogger log
+INFO: user login: 
+Jul 10, 2020 2:13:02 AM com.Retailsols.com.MyLogger log
+INFO: user login: 
+Jul 10, 2020 2:14:20 AM com.Retailsols.com.MyLogger log
+INFO: user login: 
+Jul 10, 2020 2:24:08 AM com.Retailsols.com.MyLogger log
+INFO: user login: 
+Jul 10, 2020 2:29:43 AM com.Retailsols.com.MyLogger log
+INFO: user login: 
+Jul 10, 2020 2:31:21 AM com.Retailsols.com.MyLogger log
+INFO: user login: 
+Jul 10, 2020 2:57:02 AM com.Retailsols.com.MyLogger log
+INFO: user login: 
+Jul 10, 2020 3:01:04 AM com.Retailsols.com.MyLogger log
+INFO: user login: 
+Jul 10, 2020 3:08:11 AM com.Retailsols.com.MyLogger log
+INFO: user login: 
+Jul 10, 2020 3:10:41 AM com.Retailsols.com.MyLogger log
+INFO: user login: 
+Jul 10, 2020 7:29:38 PM com.Retailsols.com.MyLogger log
+INFO: user login: 
+Jul 10, 2020 7:38:10 PM com.Retailsols.com.MyLogger log
+INFO: user login: 
+Jul 10, 2020 7:43:57 PM com.Retailsols.com.MyLogger log
+INFO: user login: 
+Jul 10, 2020 7:48:46 PM com.Retailsols.com.MyLogger log
+INFO: user login: 
+Jul 10, 2020 7:54:53 PM com.Retailsols.com.MyLogger log
+INFO: user login: 
+Jul 10, 2020 7:56:22 PM com.Retailsols.com.MyLogger log
+INFO: user login: 
+Jul 10, 2020 8:04:48 PM com.Retailsols.com.MyLogger log
+INFO: user login: 

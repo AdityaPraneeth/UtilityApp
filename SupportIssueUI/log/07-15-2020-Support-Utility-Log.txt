@@ -1,0 +1,94 @@
+Jul 15, 2020 1:37:26 AM com.Retailsols.com.MyLogger log
+INFO: user login: 
+Jul 15, 2020 1:37:26 AM com.Retailsols.com.MyLogger log
+INFO: entered wrong date: 
+Jul 15, 2020 1:37:26 AM com.Retailsols.com.MyLogger log
+INFO: entered wrong date: null
+Jul 15, 2020 1:37:26 AM com.Retailsols.com.MyLogger log
+INFO: entered wrong month: null
+Jul 15, 2020 1:37:26 AM com.Retailsols.com.MyLogger log
+INFO: entered wrong year: null
+Jul 15, 2020 1:37:26 AM com.Retailsols.com.MyLogger log
+INFO: entered correct date: null
+Jul 15, 2020 1:37:26 AM com.Retailsols.com.MyLogger log
+INFO: entered correct month: null
+Jul 15, 2020 1:37:26 AM com.Retailsols.com.MyLogger log
+INFO: entered correct year: null
+Jul 15, 2020 1:37:48 AM com.Retailsols.com.MyLogger log
+INFO: Clicked business date peocess buttn: false
+Jul 15, 2020 1:37:49 AM com.Retailsols.com.MyLogger log
+INFO: re-set business date mnt file is generated
+Jul 15, 2020 1:49:14 AM com.Retailsols.com.MyLogger log
+INFO: user login: 
+Jul 15, 2020 1:49:14 AM com.Retailsols.com.MyLogger log
+INFO: entered wrong date: null
+Jul 15, 2020 1:49:14 AM com.Retailsols.com.MyLogger log
+INFO: entered wrong date: null
+Jul 15, 2020 1:49:14 AM com.Retailsols.com.MyLogger log
+INFO: entered wrong month: null
+Jul 15, 2020 1:49:14 AM com.Retailsols.com.MyLogger log
+INFO: entered wrong year: null
+Jul 15, 2020 1:49:14 AM com.Retailsols.com.MyLogger log
+INFO: entered correct date: null
+Jul 15, 2020 1:49:14 AM com.Retailsols.com.MyLogger log
+INFO: entered correct month: null
+Jul 15, 2020 1:49:14 AM com.Retailsols.com.MyLogger log
+INFO: entered correct year: null
+Jul 15, 2020 1:49:17 AM com.Retailsols.com.MyLogger log
+INFO: Clicked business date issue button
+Jul 15, 2020 1:50:00 AM com.Retailsols.com.MyLogger log
+INFO: Clicked business date peocess buttn: false
+Jul 15, 2020 1:50:00 AM com.Retailsols.com.MyLogger log
+INFO: re-set business date mnt file is generated
+Jul 15, 2020 1:51:59 AM com.Retailsols.com.MyLogger log
+INFO: user login: 
+Jul 15, 2020 1:51:59 AM com.Retailsols.com.MyLogger log
+INFO: entered wrong date: null
+Jul 15, 2020 1:51:59 AM com.Retailsols.com.MyLogger log
+INFO: entered wrong date: null
+Jul 15, 2020 1:51:59 AM com.Retailsols.com.MyLogger log
+INFO: entered wrong month: null
+Jul 15, 2020 1:51:59 AM com.Retailsols.com.MyLogger log
+INFO: entered wrong year: null
+Jul 15, 2020 1:51:59 AM com.Retailsols.com.MyLogger log
+INFO: entered correct date: null
+Jul 15, 2020 1:51:59 AM com.Retailsols.com.MyLogger log
+INFO: entered correct month: null
+Jul 15, 2020 1:51:59 AM com.Retailsols.com.MyLogger log
+INFO: entered correct year: null
+Jul 15, 2020 1:52:01 AM com.Retailsols.com.MyLogger log
+INFO: Clicked business date issue button
+Jul 15, 2020 1:52:19 AM com.Retailsols.com.MyLogger log
+INFO: Clicked business date peocess buttn: false
+Jul 15, 2020 1:52:19 AM com.Retailsols.com.MyLogger log
+INFO: re-set business date mnt file is generated
+Jul 15, 2020 3:54:38 AM com.Retailsols.com.MyLogger log
+INFO: user login: 
+Jul 15, 2020 3:54:38 AM com.Retailsols.com.MyLogger log
+INFO: business date issue button clicked
+Jul 15, 2020 3:55:10 AM com.Retailsols.com.MyLogger log
+INFO: Clicked process button
+Jul 15, 2020 3:55:11 AM com.Retailsols.com.MyLogger log
+INFO: correct date: javax.swing.JComboBox[,283,141,53x20,layout=javax.swing.plaf.metal.MetalComboBoxUI$MetalComboBoxLayoutManager,alignmentX=0.0,alignmentY=0.0,border=,flags=328,maximumSize=,minimumSize=,preferredSize=,isEditable=false,lightWeightPopupEnabled=true,maximumRowCount=8,selectedItemReminder=01]
+ wrong date: javax.swing.JComboBox[,282,98,54x20,layout=javax.swing.plaf.metal.MetalComboBoxUI$MetalComboBoxLayoutManager,alignmentX=0.0,alignmentY=0.0,border=,flags=328,maximumSize=,minimumSize=,preferredSize=,isEditable=false,lightWeightPopupEnabled=true,maximumRowCount=8,selectedItemReminder=02]
+Jul 15, 2020 3:55:11 AM com.Retailsols.com.MyLogger log
+INFO: re-set business date mnt file is generated
+Jul 15, 2020 4:01:52 AM com.Retailsols.com.MyLogger log
+INFO: user login: 
+Jul 15, 2020 4:01:52 AM com.Retailsols.com.MyLogger log
+INFO: business date issue button clicked
+Jul 15, 2020 4:01:54 AM com.Retailsols.com.MyLogger log
+INFO: user login: 
+Jul 15, 2020 4:01:54 AM com.Retailsols.com.MyLogger log
+INFO: business date issue button clicked
+Jul 15, 2020 4:02:19 AM com.Retailsols.com.MyLogger log
+INFO: Clicked process button
+Jul 15, 2020 4:02:19 AM com.Retailsols.com.MyLogger log
+INFO: correct date: 01-01-2019
+ wrong date: 01-02-2019
+Jul 15, 2020 4:02:19 AM com.Retailsols.com.MyLogger log
+INFO: re-set business date mnt file is generated
+Jul 15, 2020 9:55:25 PM com.Retailsols.com.MyLogger log
+INFO: user login: 
+Jul 15, 2020 9:55:25 PM com.Retailsols.com.MyLogger log
+INFO: business date issue button clicked

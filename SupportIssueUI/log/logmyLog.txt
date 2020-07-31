@@ -1,0 +1,6 @@
+Jul 08, 2020 2:50:06 AM com.Retailsols.com.MyLogger log
+INFO: login attempt failed by user: wkdkdck
+Jul 08, 2020 2:54:17 AM com.Retailsols.com.MyLogger log
+INFO: user login: kranthireddy361@gmail.com
+Jul 08, 2020 3:02:29 AM com.Retailsols.com.MyLogger log
+INFO: user login: rtqertq

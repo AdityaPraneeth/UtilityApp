@@ -1,0 +1,8 @@
+Jul 14, 2020 3:12:48 AM com.Retailsols.com.MyLogger log
+INFO: user login: 
+Jul 14, 2020 3:13:14 AM com.Retailsols.com.MyLogger log
+INFO: re-set business date mnt file is generated
+Jul 14, 2020 8:49:34 PM com.Retailsols.com.MyLogger log
+INFO: user login: 
+Jul 14, 2020 8:50:58 PM com.Retailsols.com.MyLogger log
+INFO: re-set business date mnt file is generated

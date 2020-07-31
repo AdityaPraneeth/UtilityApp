@@ -1,0 +1,46 @@
+Jul 16, 2020 2:49:50 AM com.Retailsols.com.MyLogger log
+INFO: user login: 
+Jul 16, 2020 2:49:50 AM com.Retailsols.com.MyLogger log
+INFO: business date issue button clicked
+Jul 16, 2020 3:05:15 AM com.Retailsols.com.MyLogger log
+INFO: user login: 
+Jul 16, 2020 3:05:15 AM com.Retailsols.com.MyLogger log
+INFO: business date issue button clicked
+Jul 16, 2020 3:35:38 AM com.Retailsols.com.MyLogger log
+INFO: user login: 
+Jul 16, 2020 3:35:38 AM com.Retailsols.com.MyLogger log
+INFO: business date issue button clicked
+Jul 16, 2020 3:45:03 AM com.Retailsols.com.MyLogger log
+INFO: user login: 
+Jul 16, 2020 3:45:03 AM com.Retailsols.com.MyLogger log
+INFO: business date issue button clicked
+Jul 16, 2020 7:35:59 PM com.Retailsols.com.MyLogger log
+INFO: user login: 
+Jul 16, 2020 7:36:00 PM com.Retailsols.com.MyLogger log
+INFO: business date issue button clicked
+Jul 16, 2020 8:03:49 PM com.Retailsols.com.MyLogger log
+INFO: user login: 
+Jul 16, 2020 8:03:49 PM com.Retailsols.com.MyLogger log
+INFO: business date issue button clicked
+Jul 16, 2020 9:30:04 PM com.Retailsols.com.MyLogger log
+INFO: user login: 
+Jul 16, 2020 9:30:04 PM com.Retailsols.com.MyLogger log
+INFO: business date issue button clicked
+Jul 16, 2020 9:37:06 PM com.Retailsols.com.MyLogger log
+INFO: user login: 
+Jul 16, 2020 9:37:06 PM com.Retailsols.com.MyLogger log
+INFO: business date issue button clicked
+Jul 16, 2020 9:45:24 PM com.Retailsols.com.MyLogger log
+INFO: user login: 
+Jul 16, 2020 9:56:38 PM com.Retailsols.com.MyLogger log
+INFO: user login: 
+Jul 16, 2020 9:56:38 PM com.Retailsols.com.MyLogger log
+INFO: business date issue button clicked
+Jul 16, 2020 9:59:33 PM com.Retailsols.com.MyLogger log
+INFO: user login: 
+Jul 16, 2020 9:59:33 PM com.Retailsols.com.MyLogger log
+INFO: business date issue button clicked
+Jul 16, 2020 10:00:47 PM com.Retailsols.com.MyLogger log
+INFO: user login: 
+Jul 16, 2020 10:00:47 PM com.Retailsols.com.MyLogger log
+INFO: business date issue button clicked
